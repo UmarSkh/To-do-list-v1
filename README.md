@@ -1,0 +1,2 @@
+# To-do-list-v1
+ This is a simple and interactive To-Do List application built using Node.js, Express.js, and EJS. Users can add, view, and delete tasks. The app allows for easy task management with a clean user interface. Each task can be marked as completed, and users can keep track of their progress efficiently. The app features dynamic rendering of tasks and is fully functional with server-side handling for adding and deleting tasks.
